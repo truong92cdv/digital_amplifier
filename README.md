@@ -3,6 +3,11 @@ Digital Amplifier with Rotary Encoder, LCD I2C
 
 Đề bài: [Digital Amplifier](Digital_Amplifier.pdf) - Thầy Huỳnh Nhật Hải - FPT Jetking
 
-## Demo
+## 0. Demo
 
 https://github.com/user-attachments/assets/df338964-eca5-48f0-ad2e-795c8d4cfbb1
+
+## 1. Block Diagram
+
+![Block Diagram 0](blockdiagram_0.png)
+![Block Diagram 1](blockdiagram_1.png)
