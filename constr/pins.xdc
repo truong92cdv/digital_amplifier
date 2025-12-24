@@ -1,0 +1,11 @@
+set_property PACKAGE_PIN F7 [get_ports {sda}]
+set_property PACKAGE_PIN F8 [get_ports {scl}]
+set_property PACKAGE_PIN E5 [get_ports {rotary_press}]
+set_property PACKAGE_PIN E6 [get_ports {rotary_b}]
+set_property PACKAGE_PIN F6 [get_ports {rotary_a}]
+
+set_property IOSTANDARD LVCMOS18 [get_ports {sda}]
+set_property IOSTANDARD LVCMOS18 [get_ports {scl}]
+set_property IOSTANDARD LVCMOS18 [get_ports {rotary_press}]
+set_property IOSTANDARD LVCMOS18 [get_ports {rotary_b}]
+set_property IOSTANDARD LVCMOS18 [get_ports {rotary_a}]
